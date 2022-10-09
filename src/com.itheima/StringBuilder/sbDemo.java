@@ -7,3 +7,5 @@ public class sbDemo{
         System.out.println(sb);
     }
 }
+
+//sb:1.字符串拼接 2 字符串反转
