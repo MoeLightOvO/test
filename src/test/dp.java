@@ -1,3 +1,5 @@
+package test;
+
 import java.util.Scanner;
 public class dp {
     public static void main(String []argv){
